@@ -1,2 +1,2 @@
 # basics
-Coding cheat sheet to help you learn the basics of JavaScript
+coding cheat sheet to help you learn the basics of JavaScript
